@@ -1,0 +1,24 @@
+{
+  "name": "toon-library",
+  "version": "1.0.0",
+  "description": "Universal JSON-to-TOON Converter for Low-Latency RAG Systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "node examples/usage.js"
+  },
+  "keywords": [
+    "RAG",
+    "LLM",
+    "JSON",
+    "Serialization",
+    "TOON",
+    "AI",
+    "T-RAG"
+  ],
+  "author": "Syed Naseeb Ali Tirmizi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snathaxor/toon-library.git"
+  }
+}
